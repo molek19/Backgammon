@@ -1,0 +1,1 @@
+The project is a simulation of the game of backgammon. The program uses the conio library, which allows you to move the cursor around the console, for example. The entire game is presented by means of text graphics displayed in the terminal. The program has implemented many advanced features from the Backgammon game.
